@@ -42,11 +42,3 @@ The Genetic Algorithm successfully identifies portfolio weights that:
 - Minimize risk under return constraints
 
 This approach demonstrates the effectiveness of metaheuristic methods in solving financial optimization problems.
-
-## 👨‍🎓 Author
-**Pedro**  
-Mathematics Student  
-Interests: Optimization, Financial Mathematics, Machine Learning, and Data Science
--
-**Pedr
-Mathematics Student | Data Science & AI Enthusiast
