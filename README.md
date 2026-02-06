@@ -7,18 +7,18 @@ which is then refined in the second stage using a **Genetic Algorithm** to achie
 
 ---
 
-## 📁 Project Structure
-- 📊 **Stage 1 – Markowitz Model**
+## Project Structure
+-  **Stage 1 – Markowitz Model**
   - Mean-Variance portfolio optimization
   - Expected return and risk (variance) calculation
 
-- 🧬 **Stage 2 – Genetic Algorithm**
+-  **Stage 2 – Genetic Algorithm**
   - Portfolio optimization using evolutionary computation
   - Improvement of portfolio weights from Markowitz results
 
 ---
 
-## 🔧 Tools & Libraries
+## Tools & Libraries
 - Python
 - NumPy
 - Pandas
@@ -26,7 +26,7 @@ which is then refined in the second stage using a **Genetic Algorithm** to achie
 
 ---
 
-## 📌 Features
+## Features
 - Expected return and portfolio risk calculation
 - Markowitz efficient portfolio generation
 - Genetic Algorithm components:
@@ -34,16 +34,19 @@ which is then refined in the second stage using a **Genetic Algorithm** to achie
   - Crossover
   - Mutation
   - Fitness evaluation
-- Comparative analysis between Markowitz and GA results
 
 ---
+## Results
+The Genetic Algorithm successfully identifies portfolio weights that:
+- Maximize expected return for a given level of risk, or
+- Minimize risk under return constraints
 
-## 🎯 Objective
-To demonstrate how **Genetic Algorithms** can enhance classical portfolio optimization models by exploring
-a broader solution space and avoiding local optima.
-
----
+This approach demonstrates the effectiveness of metaheuristic methods in solving financial optimization problems.
 
 ## 👨‍🎓 Author
 **Pedro**  
+Mathematics Student  
+Interests: Optimization, Financial Mathematics, Machine Learning, and Data Science
+-
+**Pedr
 Mathematics Student | Data Science & AI Enthusiast
